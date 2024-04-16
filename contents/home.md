@@ -16,19 +16,25 @@ I am passionate about open source and firmly believe in its potential to dissemi
 * CNKI Scholar：[Xugang Zheng's CNKI Scholar](https://au.cnki.net/author/personalInfo/000051520843)
 
 #### Education
-2024.09 - 至今, 东北财经大学, 经济学院, 劳动经济学专业  
+2024.09 - 至今, 东北财经大学, 经济学院, 劳动经济学专业 
+
 <span style="font-size: smaller; color: grey;">2024.09 - 至今, Labor Economics, School of Economics, Dongbei University of Finance & Economics.</span>
 
 2021.09 - 2024.01, 东北财经大学, 经济学院, 劳动经济学专业
+
 <span style="font-size: smaller; color: grey;">2021.09 - 2024.01, Labor Economics, School of Economics, Dongbei University of Finance & Economics.</span>
 
-2017.09 - 2021.06, 太原师范学院, 经济与管理学院, 经济学专业.
+2017.09 - 2021.06, 太原师范学院, 经济与管理学院, 经济学专业
+
 <span style="font-size: smaller; color: grey;">2017.09 - 2021.06, Economics, School of Economics and Management, Taiyuan Normal University.</span>
 
 #### Research Interests
 劳动经济学；农业经济学；区域经济学；城市经济学
+
 <span style="font-size: smaller; color: grey;">Labor Economics; Agricultural Economics; Regional Economics; Urban Economics</span>
-主要关注县域城镇化；新型城镇化；农业转移人口市民化方面的研究议题。
+
+主要关注县域城镇化；新型城镇化；农业转移人口市民化方面的研究议题
+
 <span style="font-size: smaller; color: grey;">The research topics mainly focus on urbanization in county areas, new-type urbanization, and the citizenization of agricultural transfer population.</span>
 
 #### Skills
