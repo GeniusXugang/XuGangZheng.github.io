@@ -1,4 +1,4 @@
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
+- 1.*周闯, <strong><strong>郑旭刚</strong></strong>. 数字经济发展与流动人口职业层次提升 [J]. 财经问题研究, 2023, (01): 108-119.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
 
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition (ISPP 2023).* [[Paper]](https://doi.org/10.1117/12.2681344)
+- 2.*周闯,<strong><strong>郑旭刚</strong></strong>,张抗私. 数字经济赋能服务业就业：行业异质性与空间效应 [J]. 技术经济, 2023, 42 (03): 167-178. 
