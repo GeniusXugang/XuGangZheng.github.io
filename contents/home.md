@@ -17,12 +17,15 @@ I am passionate about open source and firmly believe in its potential to dissemi
 
 #### Education
 2024.09 - 至今, 东北财经大学, 经济学院, 劳动经济学专业  
+
 <span style="font-size: smaller; color: grey;">2024.09 - 至今, Labor Economics, School of Economics, Dongbei University of Finance & Economics.</span>
 
 2021.09 - 2024.01, 东北财经大学, 经济学院, 劳动经济学专业
+
 <span style="font-size: smaller; color: grey;">2021.09 - 2024.01, Labor Economics, School of Economics, Dongbei University of Finance & Economics.</span>
 
-2017.09 - 2021.06, 太原师范学院, 经济与管理学院, 经济学专业.
+2017.09 - 2021.06, 太原师范学院, 经济与管理学院, 经济学专业
+
 <span style="font-size: smaller; color: grey;">2017.09 - 2021.06, Economics, School of Economics and Management, Taiyuan Normal University.</span>
 
 #### Research Interests
