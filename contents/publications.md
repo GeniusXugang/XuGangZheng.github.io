@@ -24,5 +24,5 @@
  
  - 8.张姝, <strong><strong>郑旭刚</strong></strong>, 宇超逸,王雪标. 年轻人的学历梦：互联网使用与教育期望[R].修改中
   
- - 9.Zhang, T.B. Hu, S. Q. and <strong><strong>Zheng, X.G.<strong><strong>. Government Response and Citizen satisfaction[R].修改中
+ - 9.Zhang, T.B. Hu, S. Q. and <strong><strong>Zheng, X.G.<strong><strong>,. Government Response and Citizen satisfaction[R].修改中
   
