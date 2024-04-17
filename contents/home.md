@@ -37,7 +37,7 @@ I am passionate about open source and firmly believe in its potential to dissemi
 
 <span style="font-size: smaller; color: grey;">The research topics mainly focus on urbanization in county areas, new-type urbanization, and the citizenization of agricultural transfer population.</span>
 
-#### Conference
+#### Travelling
 * **Natural Language Processing:** Proficient in using the PyTorch framework, with the ability to reproduce mainstream large-scale models in the industry (such as Baichuan, llama2, Qwen). Proficient in using quantization and inference tools such as QLoRA, vLLM, and skilled in distributed parallel training (using training tools such as BMTrain, DeepSpeed).
 
 * **High Performance Computing:** Proficient in CUDA Programming, familiar with C++, knowledgeable in compiler optimization principles, and understanding of MPI, OpenMP, and SIMD acceleration optimization technologies.
