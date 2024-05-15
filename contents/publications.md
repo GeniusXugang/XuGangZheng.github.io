@@ -5,10 +5,9 @@
 
 - 2.周闯,<strong><strong>郑旭刚</strong></strong>,张抗私. 数字经济赋能服务业就业：行业异质性与空间效应 [J]. 技术经济, 2023, 42 (03): 167-178.[[知网获取全文]](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ox5LyA_WN2w2JnN5j0NEi0D0KnoI2Axuhk9zw2qOD15snk5f9G7CFGu4_L0uJZxoSllMUPIvqp4LbOdA8xzb6JAPphbeDJEiZz-wZDXE8meeYHUCpEyyWLwvmsig9Wp-OSosRJtFVc8Q==&uniplatform=NZKPT&language=CHS)
 
-
+- 3.周闯, <strong><strong>郑旭刚</strong></strong>, 许文立. 县城新型城镇化建设与农业转移人口就业质量 [J]. 世界经济, 2024, (04): 212-240.[[知网获取全文]](https://kns.cnki.net/kcms2/article/abstract?v=BQVG6Ge829b9yxAbWGYz6b0GbVhDD_nJJR7EV_eAcwP7UwX6-06YHAUUzvK3KC4dsegkEktssJYRhM9zCRqoRecyMOBySGcY05oGSo1DJaHhFVSNThHbvzbm8ez_aSKAdOn0bVuEQI8=&uniplatform=NZKPT&language=CHS)
+- 
  __# 工作论文__
-
- - 1.周闯, <strong><strong>郑旭刚</strong></strong>, 许文立. 县城新型城镇化建设与农业转移人口就业质量[R].世界经济拟录用
     
  - 2.周闯, <strong><strong>郑旭刚</strong></strong>, 许文立. 新型城镇化建设与农业转移人口的家庭消费水平[R].系统工程理论与实践外审
   
